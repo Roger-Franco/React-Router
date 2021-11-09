@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 npx create-react-app navegacao-react-router
 yarn add react-router-dom
+"react-router-dom": "^5.2.0", com esse funciona o Switch
