@@ -8,7 +8,6 @@ import Home from "../../views/examples/Home";
 const Content = (props) => {
   return (
       <main className="Content">
-        <h1>ola mundo</h1>
         <Switch>
         <Route path="/about" exact component={About}/>
         <Route path="/" exact component={Home}/>
